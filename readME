@@ -1,0 +1,26 @@
+Voici un README pour expliquer le fonctionnement du projet.
+
+1 - Pour exécuter le code sur Visual Studio Code :
+	make clean
+	make release
+	./release
+    Pour exécuter le code sur codeblocks :
+    	compilez et lancer le programme dirrectement via codeblocks
+
+2 - Lorsque vous lancerez le projet, vous verrez apparaître le point initial à partir duquel nous sommes partis. Il vous suffira d'appuyer sur les touches indiquées ci-dessous pour afficher les différentes fonctionnalités demandées.
+
+3 - Attribution des touches :
+
+    Touche W (ou Z sur clavier AZERTY) → Sens de déplacement : départ vers terminus.
+
+    Touche S → Sens de déplacement : terminus vers départ.
+
+    Touche T → Permet de choisir et d'afficher les différents tris utilisés.
+
+    Touche F → Permet de choisir et de fusionner deux lignes de bus.
+
+    Touche C → Permet de choisir et de rendre circulaire une ligne de bus.
+
+    Touche X → Permet de choisir et de supprimer une station.
+
+    Touche ESC → Quitter le projet.
